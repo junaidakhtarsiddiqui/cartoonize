@@ -25,7 +25,7 @@ Before and After<br>
 
 
 # Contributing<br>
-We welcome contributions to the Cartoonizer repository. If you find any issues or have ideas for improvements, please open an issue or submit a pull request. We appreciate your help in making this project better.<br>
+We welcome contributions to the Cartoonize repository. If you find any issues or have ideas for improvements, please open an issue or submit a pull request. We appreciate your help in making this project better.<br>
 
 # License<br>
 This project is licensed under the MIT License.
